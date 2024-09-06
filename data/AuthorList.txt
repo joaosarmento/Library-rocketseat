@@ -1,0 +1,4 @@
+1;Wilhelm Grimm;24/02/1786
+2;Clive Staples Lewis;29/11/1898
+3;Jostein Gaarder;08/08/1952
+4;Rick Riordan;05/06/1964
